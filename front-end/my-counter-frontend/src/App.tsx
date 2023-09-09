@@ -4,6 +4,15 @@ import Home from "./Home.tsx";
 
 function App() {
   return (
+    // <SeiWalletProvider
+    //   chainConfiguration={{
+    //     chainId: "sei-chain",
+    //     restUrl: "http://localhost:1317",
+    //     rpcUrl: "http://localhost:26657",
+    //   }}
+    //   wallets={["compass", "fin"]}
+    // >
+
     // Set up SeiWalletProvider for easy wallet connection and to use hooks in @sei-js/react
     <SeiWalletProvider
       chainConfiguration={{
