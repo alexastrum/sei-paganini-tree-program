@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@sei-js/core": "^3.0.2",
+    "@sei-js/react": "^3.0.2"
+  }
+}
