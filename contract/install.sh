@@ -9,7 +9,8 @@ rustup target list --installed
 # if wasm32 is not listed above, run this
 rustup target add wasm32-unknown-unknown
 
-cargo generate --git https://github.com/CosmWasm/cw-template.git --name counter -d minimal=false
+# cargo generate --git https://github.com/CosmWasm/cw-template.git --name counter -d minimal=false
+
 
 
 # git clone https://github.com/sei-protocol/sei-chain
@@ -18,5 +19,4 @@ cargo generate --git https://github.com/CosmWasm/cw-template.git --name counter 
 # make install
 
 # seid version
-
-# seid keys add admin -i
+seid keys add admin -i
