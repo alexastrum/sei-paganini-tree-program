@@ -8,7 +8,7 @@
     "supply": 100,
     "token_uri": "",
     "royalty_percent": 0,
-    "royalty_wallet": "_ADDRESS_",
+    "royalty_wallet": "sei1zjfgt2e4xn5qselurv75ytqlcmwr0muld7yz0v",
     "iterated_uri": true,
     "start_order": 1,
     "frozen": false,
@@ -19,11 +19,15 @@
             "name": "public",
             "merkle_root": null,
             "max_tokens": 0,
-            "unit_price": 1,
+            "unit_price": 0.1,
             "creators": [
                 {
-                    "address": "_ADDRESS_",
-                    "share": 100
+                    "address": "sei12f6rptt2whn3qchkc84pszp0tzvyhh6djx9y9d",
+                    "share": 50
+                },
+                {
+                    "address": "sei1zjfgt2e4xn5qselurv75ytqlcmwr0muld7yz0v",
+                    "share": 50
                 }
             ],
             "start_time": "2023-09-10T07:44:36Z",
