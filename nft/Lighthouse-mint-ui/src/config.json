@@ -1,0 +1,25 @@
+{
+    "name": "Paganini Tree Program",
+    "description":"Leave your mark that will transcend through the time by planting trees. Recreate a bioreserve sanctuary together. After planting all the NFTs grow, just like the trees you plant.",
+    "website":"",
+    "twitter":"",
+    "discord":"",
+    "rpc": "https://rpc.atlantic-2.seinetwork.io",
+    "network":"atlantic-2", 
+    "collection_address":"sei190qxrhs9lrlzwm5y6cglqu3ef78w8327gv7t4nxycwav4870jt7qzv7sw2", 
+    "nft_name_type": "default",
+    "groups":[
+        {
+            "name":"whitelist",
+            "allowlist":[
+                "sei14v72v7hgzuvgck6v6jsgjacxnt34gj06qnx53d",
+                "sei1t22vwusjlxg4vp7gttsx7n2y9u4k0vv9lpk2ge",
+                "sei12f6rptt2whn3qchkc84pszp0tzvyhh6djx9y9d",
+                "__ADDRESS__"
+            ] 
+        },
+        {
+            "name":"public"
+        }
+    ]
+}
