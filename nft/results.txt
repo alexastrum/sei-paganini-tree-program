@@ -1,0 +1,4 @@
+✔ CW721 Contract deployed to SEI blockchain. Contract Code ID: 2813
+✔ Collection registered to Lighthouse
+Transaction hash: 2E6EEECA6B960B9886EB48A623FC1592607D170F91504EC865B2E511AF3B588E
+Collection address: sei190qxrhs9lrlzwm5y6cglqu3ef78w8327gv7t4nxycwav4870jt7qzv7sw2

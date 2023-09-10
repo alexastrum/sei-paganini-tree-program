@@ -1,0 +1,33 @@
+{
+    "mnemonic": "_SECRET_",
+    "rpc": "https://rpc.atlantic-2.seinetwork.io",
+    "network": "atlantic-2",
+    "name": "Paganini Tree Program",
+    "symbol": "PTP",
+    "description": "",
+    "supply": 100,
+    "token_uri": "",
+    "royalty_percent": 0,
+    "royalty_wallet": "_ADDRESS_",
+    "iterated_uri": true,
+    "start_order": 1,
+    "frozen": false,
+    "hidden_metadata": false,
+    "placeholder_token_uri": null,
+    "groups": [
+        {
+            "name": "public",
+            "merkle_root": null,
+            "max_tokens": 0,
+            "unit_price": 1,
+            "creators": [
+                {
+                    "address": "_ADDRESS_",
+                    "share": 100
+                }
+            ],
+            "start_time": "2023-09-10T07:44:36Z",
+            "end_time": null
+        }
+    ]
+}
