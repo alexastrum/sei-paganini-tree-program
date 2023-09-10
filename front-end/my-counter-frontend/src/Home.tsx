@@ -6,7 +6,8 @@ import {
   WalletConnectButton,
 } from "@sei-js/react";
 
-const CONTRACT_ADDRESS = "YOUR_COUNTER_CONTRACT ADDRESS"; // (atlantic-2 example) sei18g4g35mhy5s88nshpa6flvpj9ex6u88l6mhjmzjchnrfa7xr00js0gswru
+const CONTRACT_ADDRESS =
+  "sei17h76djf3xymwtstccmr8lz9l4p3e5nj5nezwzylya6fuww4dt3fse853ak"; // (atlantic-2 example) sei18g4g35mhy5s88nshpa6flvpj9ex6u88l6mhjmzjchnrfa7xr00js0gswru
 
 function Home() {
   const [count, setCount] = useState<number | undefined>();
